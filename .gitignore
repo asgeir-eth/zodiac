@@ -6,7 +6,7 @@ env/
 .env
 .history
 coverage*
-dist/
+# dist/ # add dist to repo for testing in zodiac-mod-starter-kit
 deployments
 yarn-error.log
 .docusaurus
